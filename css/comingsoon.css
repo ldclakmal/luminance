@@ -1,0 +1,68 @@
+@charset "utf-8";
+/*css document*/
+#mess{
+    position: fixed;
+    width: 100%;
+    top:50px;
+    left: 0;
+    right: 0;
+}
+
+#icon{
+    position: fixed;
+    width: 100%;
+    bottom:55px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+#trans{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top:0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    background:#000;
+    opacity:0.65;
+}
+
+#head{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right:0px;
+    background-repeat: no-repeat;
+}
+
+#head img{
+    position:absolute;
+    height:100%;
+    /*width:100%;	
+    background:url(img/background.JPG);
+    background-size: 2700px 720px;
+background-repeat: no-repeat;*/
+}
+#head.active{display:block}
+
+@font-face{
+    font-family:Gothic;
+    src:url(/Gothic.ttf);
+}
+
+#mid1{
+    position: absolute;
+    width:100%;
+    height: 700px;
+    top: 600px;
+    bottom:0;
+    left:0;
+    right:0;
+    background:#999;
+}
