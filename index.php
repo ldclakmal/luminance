@@ -54,10 +54,11 @@
                         <p style="height: 100px;"></p>
                     </div>
                     <div class="col-lg-12 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
+                        <h2 style="font-family: PT Sans, sans-serif; color: black;">LUMiNANCE</h2>
 <!--                        <img src="images/logo-teal.png" class="col-lg-3 col-md-6 col-sm-6 col-xs-12"/>-->
                     </div>
                     <div class="col-lg-11 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12" style="left: 5%;">
-                        <a href="https://www.facebook.com/luminance.lk" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-lg"></i></a>
+<!--                        <a href="https://www.facebook.com/luminance.lk" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-lg"></i></a>-->
 <!--                        <a href="https://www.instagram.com/avixproductions/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-lg"></i></a>-->
 <!--                        <a href="mailto:info@avix.lk" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-lg"></i></a>-->
                     </div>
