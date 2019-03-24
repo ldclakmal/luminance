@@ -52,7 +52,7 @@
                         <p>
                             <span><a href="https://www.facebook.com/luminance.lk/" target="_blank"><i class="fab fa-facebook fa-lg"></i> Luminance</a></span>
                             <span><i class="fa fa-phone fa-lg"></i><a href="tel:+94767632424"> +94 76 763 2424</a></span>
-                            <span><i class="fa fa-envelope fa-lg"></i><a href="mailto:info@luminance.lk"> info@luminance.lk</a></span>
+<!--                            <span><i class="fa fa-envelope fa-lg"></i><a href="mailto:info@luminance.lk"> info@luminance.lk</a></span>-->
                             <span><i class="fa fa-map-marker fa-lg"></i><a> Battaramulla, Colombo, Sri Lanka. 10120</a></span>
                         </p>
                     </div>
